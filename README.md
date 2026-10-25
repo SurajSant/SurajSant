@@ -1,3 +1,5 @@
+[![readme-stats](https://github.com/SurajSant/SurajSant/actions/workflows/readme-stats.yml/badge.svg)](https://github.com/SurajSant/SurajSant/actions/workflows/readme-stats.yml)
+
 ## Hi there 👋
 
 <!--
